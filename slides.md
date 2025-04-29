@@ -238,9 +238,13 @@ transition: slide-left
 ---
 
 # Group Exercises: Make rest of CRUD functionality
-(remainder of time)  Take 15 mins to develop just one of the CRUD functionalities.  I'll take it up each 15 min interval.
+(remainder of time)  Take 10 mins to develop just one of the CRUD functionalities.  I'll take it up each 15 min interval.
 
 1. Implement the rest of the TODOs I listed in the comments (Cmd + Shift + F > search for 'todo').  (i.e. router, controller, handler ...) 
+   - delete
+   - create / post
+   - update / put
+   - Stretch goal : implement the search box to search by name or receipt id
 
 
 <!--
