@@ -99,8 +99,7 @@ transition: slide-left
     ```js
     "start": "nodemon ./src/index.js"
     ```
-1. In terminal: `npm run start`
-
+    
 ---
 transition: slide-left
 ---
