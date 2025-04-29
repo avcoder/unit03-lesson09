@@ -206,6 +206,7 @@ transition: slide-left
 
   export default mongoose.model("order", orderSchema);
   ```
+1. Test our app so far: do a GET request to /api/order endpoint - do you get JSON back?
 
 ---
 layout: image-right
@@ -236,9 +237,9 @@ class: text-left
 transition: slide-left
 ---
 
-# Exercise: Make rest of CRUD functionality
+# Group Exercises: Make rest of CRUD functionality
+(remainder of time)  Take 15 mins to develop just one of the CRUD functionalities.  I'll take it up each 15 min interval.
 
-1. Test our app so far: do a GET request to /api/order endpoint - do you get JSON back?
 1. Implement the rest of the TODOs I listed in the comments (Cmd + Shift + F > search for 'todo').  (i.e. router, controller, handler ...) 
 
 
