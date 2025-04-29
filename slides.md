@@ -218,25 +218,18 @@ transition: slide-left
 
 
 ---
-transition: slide-left
----
-
-# Recap & Review: Routes (pg.9)
-
----
 layout: image-right
 transition: slide-left
-image: /assets/moss.png
-backgroundSize: 500px 110px
+image: /assets/bos.png
+backgroundSize: 500px 300px
 class: text-left
 ---
 
 # 10 minute break
 
 🍦 Cool Tips, Trends and Resources:
-- 🏃 [Mongoose Getting Started](https://mongoosejs.com/docs/)
-- 🗺️ [Mongoose Guides](https://mongoosejs.com/docs/guides.html)
-- ✅ [Mongoose Validation](https://mongoosejs.com/docs/validation.html)
+- 🐹 [Mongoose Tutorials](https://www.geeksforgeeks.org/mongoose-tutorial/)
+- ▶️ [Intro to MongoDB / Mongoose](https://www.youtube.com/watch?v=-PdjUx9JZ2E)
 
 <br>
 <hr>
