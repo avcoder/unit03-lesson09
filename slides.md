@@ -19,8 +19,8 @@ mdc: true
 # Express App Refactor
 Back-End Development - part 9/12
 - [ ] Reorganize how our Express app is structured
-- [ ] Schema types and Validation
-- [ ] Querying
+- [ ] Schema types and Validation, Querying
+- [ ] REMINDER: Lab tomorrow
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
