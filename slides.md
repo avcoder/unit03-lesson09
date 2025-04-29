@@ -219,6 +219,7 @@ class: text-left
 # 10 minute break
 
 🍦 Cool Tips, Trends and Resources:
+- ℹ️ [MDN: using mongoose](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/mongoose)
 - 🐹 [Mongoose Tutorials](https://www.geeksforgeeks.org/mongoose-tutorial/)
 - ▶️ [Intro to MongoDB / Mongoose](https://www.youtube.com/watch?v=-PdjUx9JZ2E)
 
