@@ -36,7 +36,7 @@ transition: slide-left
 ---
 
 # Recap & Refactor (pg.1)
-(50 min) Express Setup Instructions v.2
+(50 min) Express Setup [Instructions v.2](https://github.com/avcoder/express-steps)
 
 1. Create a new folder and go into it via cd folder-name, `npm init -y`
 1. `npm i express mongoose morgan dotenv cors`, `npm i --save-dev nodemon`
@@ -99,7 +99,7 @@ transition: slide-left
     ```js
     "start": "nodemon ./src/index.js"
     ```
-    
+
 ---
 transition: slide-left
 ---
