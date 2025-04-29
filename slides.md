@@ -208,16 +208,6 @@ transition: slide-left
   ```
 
 ---
-transition: slide-left
----
-
-# Exercise: Make rest of CRUD functionality
-
-1. Test our app so far: do a GET request to /api/order endpoint - do you get JSON back?
-1. Implement the rest of the TODOs I listed in the comments (Cmd + Shift + F > search for 'todo').  (i.e. router, controller, handler ...) 
-
-
----
 layout: image-right
 transition: slide-left
 image: /assets/bos.png
@@ -246,48 +236,10 @@ class: text-left
 transition: slide-left
 ---
 
-# Exercise #3: CRUD with Models
-(30 min) 
+# Exercise: Make rest of CRUD functionality
 
-Time to put our previous foodtruck Express app, with mongoose/mongo and put it all together.  Your mission: Implement the following CRUD operations for our Express [food truck/orders app](https://github.com/avcoder/food-truck-express).  May ask ChatGPT: "in learning mongoose/mongodb and express, how do i incorporate a basic find command inside a route?"
-
-- Read ["Querying" section](https://mongoosejs.com/docs/models.html#querying)
-   - Test it out; convince yourself it works in your basic mongoose index.js file
-   - Create an express foodtruck endpoint that returns all data 
-- Read ["Deleting" section](https://mongoosejs.com/docs/models.html#deleting)
-   - Test it out... then Create an express foodtruck endpoint that deletes based on id (or name)
-- Read ["Updating" section](https://mongoosejs.com/docs/models.html#updating)
-   - Test it out... then Create an express foodtruck update endpoint based on search/replace criteria
-
-💡 Apply CRUD operations to your personal project 
-
-
-<!--
--->
-
-
----
-transition: slide-left
----
-
-# Exercise #4: 
-(remainder of time) Incorporate a basic front end page to test your work so far
-
-Download or `git clone` my [basic HTML table page](https://github.com/avcoder/basic-table) that should work for 💡 your project idea 💡 (and/or food truck app)
-
-- Put it in a new folder which you can launch with "Go Live"
-- Modify the table columns to fit your project app's needs
-- Add client-side JavaScript (can use ChatGPT to help scaffold some quick ideas) to fetch from your express endpoints
-- Challenge #1: display all data upon requesting from your GET all endpoint
-
-Stretch goals below:
-- Challenge #2: delete a row upon requesting from your DELETE endpoint **
-- Challenge #3: update a row upon requesting from your UPDATE endpoint
-- Challenge #4: create a new row upon requesting from your POST endpoint
-- Challenge #5: filter data when a user types a keyword in the search box
-
-** Discuss: How should you handle the response?  Fetch GET / again to get all rows? or frontend solution? 
-
+1. Test our app so far: do a GET request to /api/order endpoint - do you get JSON back?
+1. Implement the rest of the TODOs I listed in the comments (Cmd + Shift + F > search for 'todo').  (i.e. router, controller, handler ...) 
 
 
 <!--
@@ -299,4 +251,5 @@ transition: slide-left
 
 # Homework
 
+- REMINDER: There is a lab tomorrow
 - Make a To-Do List App with MongoDB [see instructions in LMS](https://courses.circuitstream.com/d2l/le/lessons/9514/topics/49825)
