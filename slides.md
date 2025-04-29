@@ -17,7 +17,7 @@ mdc: true
 ---
 
 # Express App Refactor
-Back-End Development - part 8/12
+Back-End Development - part 9/12
 - [ ] Reorganize how our Express app is structured
 - [ ] Schema types and Validation
 - [ ] Querying
